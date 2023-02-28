@@ -1,0 +1,60 @@
+const data = [
+  {
+    Customer: "Naresh",
+    seen: "2022",
+    orders: "3",
+    spent: "$200",
+    purchase: "09/08",
+    news: "right",
+  },
+  {
+    Customer: "dipak",
+    seen: "2021",
+    orders: "4",
+    spent: "$150",
+    purchase: "08/09",
+    news: "right",
+  },
+  {
+    Customer: "gyani",
+    seen: "2022",
+    orders: "6",
+    spent: "$400",
+    purchase: "07/10",
+    news: "wrong",
+  },
+  {
+    Customer: "ajay",
+    seen: "2017",
+    orders: "1",
+    spent: "$50",
+    purchase: "07/09",
+    news: "wrong",
+  },
+  {
+    Customer: "vikky",
+    seen: "2011",
+    orders: "7",
+    spent: "$700",
+    purchase: "11/12",
+    news: "right",
+  },
+  {
+    Customer: "kishan",
+    seen: "2020",
+    orders: "6",
+    spent: "$200",
+    purchase: "11/07",
+    news: "right",
+  },
+  {
+    Customer: "akshay",
+    seen: "2015",
+    orders: "5",
+    spent: "$280",
+    purchase: "11/01",
+    news: "right",
+  },
+];
+
+export default data;
